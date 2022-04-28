@@ -1,2 +1,2 @@
-# satellite-identification
-Satellite Detection for Astronomical Images
+# Satellite-Identification
+Satellite Detection for Astronomical Images written for the Dragonfly Telephto Array.
