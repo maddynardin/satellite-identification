@@ -1,2 +1,2 @@
-# satellite-detection
+# satellite-identification
 Satellite Detection for Astronomical Images
