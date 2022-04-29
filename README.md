@@ -1,4 +1,4 @@
-# Satellite-Identification
+# Satellite_Identification
 
 ![alt text](https://github.com/maddynardin/satellite-detection/blob/main/working_demonstration.png?raw=true)
 
